@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637428937 source:c:\users\paul\prog\2p_rpg\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+
