@@ -1,2 +1,2 @@
 # 2P_RPG
-D&amp;D in carantina cand pica netu
+Un mic text-based rpg encounter. Creat în 2017-2018
